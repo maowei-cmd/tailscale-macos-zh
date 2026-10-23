@@ -1,0 +1,4 @@
+"NSLocalNetworkUsageDescription" = "Tailscale 在可用时会连接本地网络中的设备，以提供更快的直连。";
+"NSDownloadsFolderUsageDescription" = "Tailscale 会将接收到的文件写入你的“下载”文件夹。";
+"NSAppleEventsUsageDescription" = "Tailscale 需要向终端应用发送命令以打开服务连接。";
+"NSHumanReadableCopyright" = "Copyright © 2026 Tailscale Inc. 保留所有权利。";

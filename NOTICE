@@ -1,0 +1,16 @@
+This repository is an unofficial community localization project for the
+Tailscale macOS application. It is not affiliated with, endorsed by, or
+sponsored by Tailscale Inc.
+
+Tailscale, Taildrop, Taildrive, MagicDNS, Tailnet Lock, and related names and
+marks are trademarks of Tailscale Inc. All rights in the Tailscale application,
+its binaries, and its original localization resources remain with Tailscale
+Inc. and their respective owners.
+
+This repository contains only Chinese translations and installation scripts.
+It does not distribute the Tailscale application, its binaries, or its
+original English localization resources.
+
+The MIT license in this repository applies to the original contributions made
+here (the translation strings and scripts), and does not grant any rights to
+Tailscale's application or trademarks.
